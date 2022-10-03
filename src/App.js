@@ -97,7 +97,7 @@ function App() {
 
       <div className='titulo'>
       <img src='tomate.png' alt='Tomate Img'></img>
-        <h1>25 + 5 Clock</h1>
+      <h1>25 + 5 Clock</h1>
         <img src='tomate.png' alt='Tomate Img'></img>
       </div>
       
